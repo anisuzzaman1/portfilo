@@ -8,7 +8,7 @@ h1{
 .crimson-color{
     color: crimson;
 }
-section{
+.flex-container{
         display: flex;
         margin-bottom: 1px;
 }
