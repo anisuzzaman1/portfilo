@@ -49,3 +49,21 @@ h1{
     padding-left: 20px;
     border-radius: 15px;
 }
+
+#fullstack-dev-exp{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(153, 23, 8), tomato);
+    border-image-slice: 1;
+    border-radius: 15px;
+}
+
+#web-dev-exp{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    border-radius: 15px;
+}
+footer p{
+    margin-top: 50px;
+    text-align: center;
+}
